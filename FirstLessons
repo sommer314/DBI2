@@ -1,1 +1,9 @@
-asdfasdfaf
+Anlegen eines Schemas "Terra" mit 2 Tabellen "land" und "kontinent".
+3. Lektion
+
+Befehle zum Ändern von Tabellen
+
+Anlegen der Tabellen "staedte" und "organisationen"
+
+Die Attribute bei staedte:  ST_NAME, ST_ID, L_ID, EINWOHNER, BREITE, LAENGE
+Die Attribute bei organisationen entnimmt man aus der csv. Datei. 
